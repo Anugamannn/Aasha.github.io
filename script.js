@@ -6,7 +6,7 @@ const yesBtn = document.querySelector(".yes-btn");
 const noBtn = document.querySelector(".no-btn");
 
 yesBtn.addEventListener("click", () => {
-  question.innerHTML = "Yay, Jeku don ! FINALLY you can now have a bf who loves only you!";
+  question.innerHTML = "Yay, Jeku don ! FINALLY you can now have a man who wants you only!";
   gif.src =
     "https://media.giphy.com/media/UMon0fuimoAN9ueUNP/giphy.gif";
 });
@@ -22,3 +22,4 @@ noBtn.addEventListener("mouseover", () => {
   noBtn.style.left = randomX + "px";
   noBtn.style.top = randomY + "px";
 });
+
