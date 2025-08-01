@@ -6,7 +6,7 @@ const yesBtn = document.querySelector(".yes-btn");
 const noBtn = document.querySelector(".no-btn");
 
 yesBtn.addEventListener("click", () => {
-  question.innerHTML = "Yay, see you at Tama Koshi Aasha, I love you the most!";
+  question.innerHTML = "Yay, Jeku don ! FINALLY you can now have a bf who loves only you!";
   gif.src =
     "https://media.giphy.com/media/UMon0fuimoAN9ueUNP/giphy.gif";
 });
